@@ -457,6 +457,8 @@ font-size: 1.6rem;
     .about img {
         width: 70vw;
         margin-top: 4rem;
+        padding-right:18rem;
+      
     }
 
     .services h2 {
